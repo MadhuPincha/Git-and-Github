@@ -24,3 +24,7 @@
 ### step-19 git push -u origin main (push from origin to main)
 ### step-20 Make some changes & git add . & to restore (git restore --staged)
 
+### step-21 git branch dev1 (How to create new branch?)
+### step-22 git branch (all branches)
+### step-23 git checkout dev1 (switch to dev1 branch), make changes & check status now
+### step-24 
