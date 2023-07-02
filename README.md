@@ -30,5 +30,5 @@
 ### step-24 checkout to main then dev1 and you will see the changes.
 ### step-25 merge branches (git merge dev1)-check current branch (git branch)
 ### step-26 again check branch, git branch (we are in main)
-### step-37 continue...(changes, add, commit, push)
-### step-38 make new branch, jump to that branch, make changes (dev2)
+### step-27 continue...(changes, add, commit, push)
+### step-28 make new branch, jump to that branch, make changes (dev2)
