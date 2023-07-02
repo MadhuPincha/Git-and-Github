@@ -29,3 +29,4 @@
 ### step-23 git checkout dev1 (switch to dev1 branch), make changes & check status now
 ### step-24 checkout to main then dev1 and you will see the changes.
 ### step-25 merge branches (git merge dev1)-check current branch (git branch)
+### step-26 again check branch, git branch (we are in main)
