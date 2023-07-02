@@ -27,4 +27,4 @@
 ### step-21 git branch dev1 (How to create new branch?)
 ### step-22 git branch (all branches)
 ### step-23 git checkout dev1 (switch to dev1 branch), make changes & check status now
-### step-24 
+### step-24 checkout to main then dev1 and you will see the changes.
