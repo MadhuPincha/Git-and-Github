@@ -31,4 +31,6 @@
 ### step-25 merge branches (git merge dev1)-check current branch (git branch)
 ### step-26 again check branch, git branch (we are in main)
 ### step-27 continue...(changes, add, commit, push)
-### step-28 make new branch, jump to that branch, make changes (dev2)
+### step-28 make new branch, jump to that branch, make changes (dev2), jump back to main, merge dev2, finally push to main
+### step-29 delete branch (git branch -d dev1), check rest (git branch)
+### This is how it happens, we create extra branch, make changes, merge to main branch nad then delete extra branches.
